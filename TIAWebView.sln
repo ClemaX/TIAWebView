@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TIAWebView", "TIAWebView\TIAWebView.csproj", "{468FFBFB-A41B-4052-A5D0-26370A7A2F18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{1983F2D5-9E32-46CB-989D-EC885EF830F4}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VbTest", "VbTest\VbTest.vbproj", "{8E441136-AB0F-4504-9379-7A578CA1CD48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{468FFBFB-A41B-4052-A5D0-26370A7A2F18}.Debug|x86.ActiveCfg = Debug|x86
+		{468FFBFB-A41B-4052-A5D0-26370A7A2F18}.Debug|x86.Build.0 = Debug|x86
+		{468FFBFB-A41B-4052-A5D0-26370A7A2F18}.Release|x86.ActiveCfg = Release|x86
+		{468FFBFB-A41B-4052-A5D0-26370A7A2F18}.Release|x86.Build.0 = Release|x86
+		{1983F2D5-9E32-46CB-989D-EC885EF830F4}.Debug|x86.ActiveCfg = Debug|x86
+		{1983F2D5-9E32-46CB-989D-EC885EF830F4}.Debug|x86.Build.0 = Debug|x86
+		{1983F2D5-9E32-46CB-989D-EC885EF830F4}.Release|x86.ActiveCfg = Release|x86
+		{1983F2D5-9E32-46CB-989D-EC885EF830F4}.Release|x86.Build.0 = Release|x86
+		{8E441136-AB0F-4504-9379-7A578CA1CD48}.Debug|x86.ActiveCfg = Debug|x86
+		{8E441136-AB0F-4504-9379-7A578CA1CD48}.Debug|x86.Build.0 = Debug|x86
+		{8E441136-AB0F-4504-9379-7A578CA1CD48}.Release|x86.ActiveCfg = Release|x86
+		{8E441136-AB0F-4504-9379-7A578CA1CD48}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F83ADB30-FB94-4808-9DCC-42160C7C3028}
+	EndGlobalSection
+EndGlobal
